@@ -31,4 +31,5 @@ Overall, using Python with libraries like Pandas, Scikit-learn, and NumPy, along
 
 ##output
 
-[data.csv](https://github.com/user-attachments/files/20735720/data.csv)
+![image](https://github.com/user-attachments/assets/eb625950-0708-4fb9-978e-d4f7a66cba67)
+
